@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+#food3{
+	width: 20%;
+	height: 130px;
+}
+.elment{
+	color: white;
+	position: relative;
+	bottom: 15px;
+	font-size: 16px;
+	size: 5;
+	letter-spacing: 2px;
+}
+#Span{
+	float: right;
+	position: relative;
+	top: 35px;
+	margin-right: 5px;
+	color: white;
+}
+.Span1{
+	color: #E68900;
+}
+#Span:hover a{
+	color: #FF0000;
+}
+.icon-fruit{
+		background:url(img/sfruit.png) no-repeat center center;
+}
+.icon-fruit1{
+		background:url(img/ning.png) no-repeat center center;
+}
+.icon-fruit2{
+		background:url(img/cao.png) no-repeat center center;
+}
+iframe {
+	width: 100%;
+	height: 98%;
+	border: none;
+}
